@@ -1,4 +1,4 @@
-db = StudentDatabase;                          % Create an instance of the StudentDB class
+db = Student_Database;                          % Create an instance of the StudentDB class
 size = 3;                                % Set the size of the database (maximum number of students)
 db = db.init(size);                      % Initialize the database with the given size
 
